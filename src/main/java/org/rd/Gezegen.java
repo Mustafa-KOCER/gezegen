@@ -1,3 +1,5 @@
+package org.rd;
+
 public enum Gezegen {
     Gezegen1(1,1,1,1),
     Gezegen2(2,2,2,2),
